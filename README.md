@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruwantha Bandara  
 
-### 🚀 Full Stack Developer | 🤖 AI Engineer | 🎓 Software Engineering Undergraduate  
+### 🚀 Full Stack Developer | 🎓 Software Engineering Undergraduate  
 
 💡 Passionate about building **scalable web applications**, exploring **AI & Machine Learning**, and turning ideas into real-world solutions.  
 📚 Always learning. 🚀 Always building.  
@@ -74,7 +74,7 @@
 ## 📫 Connect With Me  
 
 - 💼 LinkedIn: *Coming Soon*  
-- 📧 Email: *Add your email here*  
+- 📧 Email: ruwanthacbandara@gmail.com  
 - 🌍 Portfolio: *Coming Soon*  
 
 ---
