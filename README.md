@@ -73,7 +73,7 @@
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: *Coming Soon*  
+- 💼 LinkedIn: (https://www.linkedin.com/in/ruwantha-bandara-89a947376/)  
 - 📧 Email: ruwanthacbandara@gmail.com  
 - 🌍 Portfolio: *Coming Soon*  
 
