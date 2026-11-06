@@ -119,8 +119,8 @@ Responsive e-commerce app with authentication, shopping cart and reusable UI com
 ## GitHub Stats
 
 <p>
-  <img height="170" alt="Ruwantha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruwanthac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanthac&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Ruwantha's GitHub Stats" src="profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" alt="Top Languages" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 ---
